@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package CzesciZamienne;
-
 /**
  *
- * @author lenovo
+ * @author rafal0191
  */
 public class PlytaGlowna {
-    
-}
+    public PlytaGlowna(){
+        System.out.println("[CzesciZamienne.PlytaGlowna] utworzono obiekt klasy PlytaGlowna");
+    }//public PlytaGlowna
+}//public class PlytaGlowna
